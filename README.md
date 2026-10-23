@@ -1,7 +1,54 @@
-DASHBOARD PERFORMANCE ANALYST
-Sales Performance Dashboard digunakan untuk menganalisis performa sales executive dan region berdasarkan total sales serta pencapaian target. 
-Hasil analisis menunjukkan bahwa Jagdish Chandra merupakan sales dengan performa tertinggi dengan total sales 389 dan Target Hit 77,8%.
-Sebaliknya, Omprakash O memiliki total sales terendah sebesar 143 sehingga dapat menjadi prioritas untuk evaluasi dan pendampingan. 
-Dari sisi wilayah, Nagpur mencatat total sales tertinggi sebesar 5.248, sementara Ranchi memiliki total terendah sebesar 4.296. 
-Dashboard ini membantu mengidentifikasi sales dengan performa terbaik, sales yang membutuhkan perhatian, serta region dengan kontribusi penjualan tinggi dan rendah. 
-Insight tersebut dapat digunakan sebagai dasar untuk melakukan evaluasi kinerja dan menentukan strategi peningkatan penjualan.
+# 📊 Dashboard Performance Analyst
+
+![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?logo=microsoftexcel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+Dashboard Excel untuk menganalisis performa **sales executive** dan **region** berdasarkan total sales serta pencapaian target (*Target Hit*).
+
+## 📌 Ringkasan Proyek
+
+Sales Performance Dashboard membantu manajemen melihat siapa sales dengan performa terbaik, siapa yang perlu pendampingan, dan wilayah mana yang berkontribusi paling besar terhadap penjualan.
+
+## 🎯 Tujuan
+
+- Membandingkan performa antar sales executive.
+- Mengukur pencapaian target (Target Hit).
+- Membandingkan total sales antar region.
+- Menyediakan dasar evaluasi kinerja dan strategi peningkatan penjualan.
+
+## 🔍 Insight Utama
+
+| Aspek | Temuan |
+|-------|--------|
+| 🏆 Sales terbaik | **Jagdish Chandra** — total sales **389**, Target Hit **77,8%** |
+| ⚠️ Sales terendah | **Omprakash O** — total sales **143** (prioritas evaluasi & pendampingan) |
+| 📍 Region tertinggi | **Nagpur** — total sales **5.248** |
+| 📍 Region terendah | **Ranchi** — total sales **4.296** |
+
+## 💡 Rekomendasi
+
+- Jadikan praktik kerja sales berperforma tinggi sebagai acuan bagi tim.
+- Berikan coaching dan target bertahap untuk sales dengan capaian rendah.
+- Pelajari faktor keberhasilan region Nagpur untuk direplikasi di region lain.
+
+## 🛠️ Tools
+
+- **Microsoft Excel** (macro-enabled `.xlsm`) untuk pengolahan data dan visualisasi dashboard
+
+## 📁 Struktur Repository
+
+```
+Dashboard-performance-analyst/
+├── Dashboard performance analyst.xlsm
+└── README.md
+```
+
+## 🚀 Cara Menggunakan
+
+1. Download file `Dashboard performance analyst.xlsm`.
+2. Buka dengan Microsoft Excel dan klik **Enable Content** jika diminta (file memuat macro).
+3. Gunakan filter/slicer pada dashboard untuk menelusuri performa per sales dan region.
+
+## 👤 Author
+
+**Achmad Havid** · [GitHub](https://github.com/achmadhavid)
